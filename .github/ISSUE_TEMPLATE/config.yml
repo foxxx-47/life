@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links: 
+- name: Issue
+- about: Issue Template
+- url: https://github.com/life/issues/new?template=issue-------.md&projects=life%2F1&labels=enhancement
