@@ -1,9 +1,11 @@
-import Page from './component/template';
+import { Box } from '@mui/material';
+
+import Template from './component/template';
 
 const App = () => (
-  <div className="">
-    <Page />
-  </div>
+  <Box className="App">
+    <Template />
+  </Box>
 );
 
 export default App;
