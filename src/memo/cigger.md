@@ -6,14 +6,14 @@
 
 CHOICE ダークチョコレート
 
-![CHOICE ダークチョコレート](../images/cigger/CHOICE_DARKCHOCO.jpeg "CHOICE ダークチョコレート")
+![CHOICE ダークチョコレート](../image/cigger/CHOICE_DARKCHOCO.jpeg "CHOICE ダークチョコレート")
 
 ハイタバコ ダークファイア
 
-![ハイタバコ ダークファイア](../images/cigger/Hi_Tabacco_DarkFire.png "ハイタバコ ダークファイア")
+![ハイタバコ ダークファイア](../image/cigger/Hi_Tabacco_DarkFire.png "ハイタバコ ダークファイア")
 
 ### ペーパー
 
 Smoking リコリス
 
-![Smoking リコリス](../images/cigger/Smoking_Liquorice.webp "Smoking リコリス")
+![Smoking リコリス](../image/cigger/Smoking_Liquorice.webp "Smoking リコリス")
