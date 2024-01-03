@@ -12,5 +12,8 @@
 
 ## New
 
+2024-01-03
+- [GitHub Pages で日記を見れるようにした](https://foxxx-47.github.io/life/daily/2024/20240103)
+
 2024-01-02
 - [新年一発目](https://foxxx-47.github.io/life/daily/2024/20240102)
