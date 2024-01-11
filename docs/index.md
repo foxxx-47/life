@@ -12,6 +12,10 @@
 
 ## New
 
+2024-01-11
+- [ゲーム](https://foxxx-47.github.io/life/daily/2024/20240111)
+  - GitHub 上で更新したらフォルダ構成ミスった。後で直します。
+
 2024-01-03
 - [GitHub Pages で日記を見れるようにした](https://foxxx-47.github.io/life/daily/2024/20240103)
 
